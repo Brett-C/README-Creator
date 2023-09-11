@@ -2,8 +2,8 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./generateMarkdown');
-const { title } = require('process');
-const licenseMarkdown = require('./generateMarkdown');
+
+
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -15,6 +15,9 @@ const questions = [
     'What credits do you want to give for this application?',
     'What licenses are used for this application?',
     'Do you have a list of features you want to include?',
+    'To link your GitHub account, what is your GitHub Username?',
+    'What is your email address for further questions?'
+
 ];
 
 // TODO: Create a function to write README file
@@ -40,9 +43,12 @@ function init() {
         },
         {
             name: "tableOfContents",
-            type: "input",
-            message: questions[2]
+            type: "confirm",
+            message: questions[2],
+
         },
+
+        
         {
             name: "installation",
             type: "input",
@@ -75,6 +81,17 @@ function init() {
             name: "features",
             type: "input",
             message: questions[7]
+        },
+        {
+            name: "gitHub",
+            type: "input",
+            message: questions[8]
+        },
+
+        {
+            name: "additionalQuestions",
+            type: "input",
+            message: questions[9]
         },
 
 
