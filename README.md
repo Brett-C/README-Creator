@@ -41,11 +41,11 @@ Click this link for information on the license
 
 
 ## Features:
-None
+none
 
 ## GitHub:
-[Link to GitHub](github.com/Brett-C)
+[Link to GitHub](https://github.com/Brett-C)
 
 ## Questions:
 If you have additional questions please contact me at:
-brcannon@bellsout.net
+brcannon@bellsouth.net

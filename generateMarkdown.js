@@ -92,7 +92,7 @@ Click this link for information on the license
 ${data.features}
 
 ## GitHub:
-[Link to GitHub](github.com/${data.gitHub})
+[Link to GitHub](https://github.com/${data.gitHub})
 
 ## Questions:
 If you have additional questions please contact me at:
