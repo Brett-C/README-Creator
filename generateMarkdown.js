@@ -84,37 +84,13 @@ Click this link for information on the license
 ${data.features}
 
 ## GitHub:
-github.com/${data.gitHub}
+[Link to GitHub](github.com/${data.gitHub})
 
 ## Questions:
 If you have additional questions please contact me at:
 ${data.additionalQuestions}`;
 };
 
-function tableOfContentsCheck(data) {
-  if (data.tableOfContents === true) {
-    inquirer.prompt([
-      {
-        name: 'tableOfContentsYes',
-        type: 'checkbox',
-        message: 'Please select your markdown sections',
-        choices: [
-          'Installation',
-          'Usage',
-          'Credits',
-          'License',
-          'Test',
-          'Features',
-          'GitHub',
-          'Questions'
-        ]
-      }
-    ]);
-  } else {
-    return 'none'
-
-  }
-};
 
 module.exports = generateMarkdown;
 

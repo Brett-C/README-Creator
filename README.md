@@ -1,40 +1,31 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
   
-# justin 
+# asdfasdf 
 
 ## Description: 
-brett
+asdfasdf
 
 ## Table of Contents: 
-
 [Installation](#Installation)
-
 [Usage](#Usage)
-
 [Credits](#Credits)
-
 [License](#License)
-
 [Test](#Test)
-
 [Features](#Features)
-
 [GitHub](#GitHub)
-
 [Questions](#Questions)
 
-
 ## Installation:
-rich
+asdf
 
 ## Usage:
-cole
+aasdf
 
 ## Credits:
-ng
+asdf
 
 ## License:
-[The MIT License](https://opensource.org/licenses/MIT)
+[GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 Click this link for information on the license
 
 
@@ -42,11 +33,11 @@ Click this link for information on the license
 
 
 ## Features:
-eheim
+asdf
 
 ## GitHub:
-github.com/brett-c
+[Link to GitHub](github.com/brett-c)
 
 ## Questions:
 If you have additional questions please contact me at:
-brcannon@bellsouth.net
+asdfasdf
