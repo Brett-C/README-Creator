@@ -1,31 +1,39 @@
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
   
-# asdfasdf 
+# README Generator 
 
 ## Description: 
-asdfasdf
+Console application that will generate a professional README by answering a few questions.
 
 ## Table of Contents: 
+
 [Installation](#Installation)
+
 [Usage](#Usage)
+
 [Credits](#Credits)
+
 [License](#License)
+
 [Test](#Test)
+
 [Features](#Features)
+
 [GitHub](#GitHub)
+
 [Questions](#Questions)
 
 ## Installation:
-asdf
+Simply clone the repo to your own device.
 
 ## Usage:
-aasdf
+Once cloned, run npm install to download the required data packages, and then run npm start to start questions.
 
 ## Credits:
-asdf
+Inquirer, JavaScript
 
 ## License:
-[GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[none]()
 Click this link for information on the license
 
 
@@ -33,11 +41,11 @@ Click this link for information on the license
 
 
 ## Features:
-asdf
+None
 
 ## GitHub:
-[Link to GitHub](github.com/brett-c)
+[Link to GitHub](github.com/Brett-C)
 
 ## Questions:
 If you have additional questions please contact me at:
-asdfasdf
+brcannon@bellsout.net
